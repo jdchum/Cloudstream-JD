@@ -530,6 +530,7 @@
         "version": "1.0", // Ensure this is the correct version number
         "internalName": "KissAsian",
         "description": "A provider for KissAsian",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Kissasian.cs3",
         "mainUrl": "https://kissasian.com.lv",
         "name": "KissAsian"
     },
